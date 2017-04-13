@@ -1,10 +1,6 @@
 exports.principal = function() {
     console.info("ESTÁ A FUNCIONAR CARALHO");
-<<<<<<< HEAD
-    alert("123");
+    alert("1234");
     //qwertyuio
     alert("TESTE");
-=======
-    alert("1234");
->>>>>>> origin/master
 }
